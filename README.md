@@ -1,5 +1,3 @@
-
-
 # 🎰 RandomSpin Smart Contract
 
 ## 📍 Contract Address  
